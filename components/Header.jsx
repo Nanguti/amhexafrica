@@ -443,7 +443,7 @@ const Header = () => {
               </div>
             </div>
             <a href="/experts" className="hidden lg:block">
-              Now&amp;Me Experts
+              Amhex Africa Experts
             </a>
             <a href="/home" className="hidden lg:block">
               Community
@@ -518,7 +518,7 @@ const Header = () => {
               For Corporates
             </a>
             <div className="flex items-center space-x-2 !ml-5">
-              <a href="https://wa.me/918826481781?text=Hi" target="_blank">
+              <a href="https://wa.me/+254715137492?text=Hi!" target="_blank">
                 <div className="bg-[#056162] rounded-xl flex justify-center items-center hover:scale-105 transform transition duration-200 cursor-pointer py-2 px-3">
                   <span className="flex justify-center items-center text-sm font-semibold text-white">
                     <svg
@@ -638,7 +638,7 @@ const Header = () => {
                   <li>
                     <div className="flex items-center">
                       <a href="/experts">
-                        <p className="font-bold">Now&amp;Me Experts</p>
+                        <p className="font-bold"> Amhex Africa Experts</p>
                       </a>
                     </div>
                   </li>
