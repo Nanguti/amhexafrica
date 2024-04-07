@@ -263,7 +263,7 @@ export default function Home() {
         </section>
         <section className="flex flex-col md:my-14 w-full mx-auto max-w-7xl px-5">
           <p className="font-bold text-2xl md:text-4xl text-center">
-            <span>Why</span> <span className="text-primary">Now&amp;Me?</span>
+            <span>Why</span> <span className="text-primary"> AmhexAfrica</span>
           </p>
           <p className="text-center font-normal text-lg mt-5 self-center max-w-[900px] text-gray-700">
             A therapeutic relationship is built on trust and confidence. At
